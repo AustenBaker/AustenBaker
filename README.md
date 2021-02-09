@@ -4,8 +4,6 @@ I'm [Austen Baker](https://www.austenbaker.com/), a Software Engineer, don't let
 
 <br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
-
 -  Contact me directly at [austenbaker225@gmail.com](mailto:austenbaker225@gmail.com)
 -  My personal website [https://www.austenbaker.com/](https://www.austenbaker.com/)
 -  Connect on LinkedIn: [https://www.linkedin.com/in/austenbaker/](https://www.linkedin.com/in/austenbaker/)
