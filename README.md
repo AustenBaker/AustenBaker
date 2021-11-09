@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm [Austen Baker](https://www.austenbaker.com/), a Software Engineer, don't let the <b>e</b> in my name trick you, it is still pronounced the same as Austin! I strive to make my code readable, powerful, and concise. I enjoy working in teams, and communicating effectively. Feel free to connect with me on LinkedIn or send me an email.
+I'm [Austen Baker](https://www.austenbaker.com/), a Software Engineer. I strive to make my code readable, powerful, and concise. I enjoy learning, working in teams, and communicating effectively. Feel free to connect with me on LinkedIn or send me an email.
 
 <br>
 
